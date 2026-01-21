@@ -3,7 +3,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # Charger les données
-df = pd.read_csv("donnees.csv", sep=";")
+df = pd.read_csv("Compte-rendu 01.01.2026-21.01.2026.csv", sep=";")
 
 # Colonnes d'opérations
 operation_cols = [col for col in df.columns if col.startswith((
