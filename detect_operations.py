@@ -3,10 +3,11 @@ import re
 
 # === 1. Charger le fichier brut ===
 df = pd.read_csv(
-    "Compte-rendu 01.01.2026-21.01.2026.csv",
+    "Compte-rendu.csv",
     sep=";",
-    encoding="latin-1"
+    encoding="utf-8"
 )
+
 
 df["obs_clean"] = df["Observation"].fillna("").str.lower()
 
