@@ -10,6 +10,7 @@ df = pd.read_csv(
     sep=";",
     encoding="latin-1"
 )
+print("Colonnes du fichier enrichi :", df.columns)
 
 # === 2. Normalisation ===
 df["date_intervention"] = pd.to_datetime(df["Date Intervention"], dayfirst=True)
