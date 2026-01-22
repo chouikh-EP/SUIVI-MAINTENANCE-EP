@@ -84,8 +84,7 @@ Aucune modification du code n’est nécessaire.
 Le tableau de bord est disponible à l’adresse :
 
 ```
-https://<ton-pseudo>.github.io/<ton-repo>/
-```
+https://github.com/chouikh-EP/SUIVI-MAINTENANCE-EP.git```
 
 ---
 
