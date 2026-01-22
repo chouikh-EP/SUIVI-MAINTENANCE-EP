@@ -98,6 +98,6 @@ https://github.com/chouikh-EP/SUIVI-MAINTENANCE-EP.git
 
 ---
 
-## 👤 Auteur
+## 👤 M.CHOUIKH
 
 Projet développé pour optimiser le suivi de la maintenance EP, automatiser l’analyse des interventions et fournir un outil d’aide à la décision moderne et fiable.
